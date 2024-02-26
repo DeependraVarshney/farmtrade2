@@ -1,6 +1,3 @@
-
-
-
 Farmtrade
 Overview:
 Farmtrade is a fintech platform designed to bridge the gap between farmers and investors in agriculture, with a mission to empower farmers with investment and connect investors with sustainable agricultural opportunities. This platform aims to build trust and foster a prosperous future for all stakeholders involved.
@@ -87,4 +84,4 @@ Known Issues:
 Check our Issue Tracker for any known bugs or issues, along with potential workarounds.
 
 Future Enhancements:
-Explore our Roadmap for planned future enhancements and features
+Explore our Roadmap for planned future enhancements and features.
