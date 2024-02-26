@@ -16,7 +16,7 @@ import UserGuide from './pages/UserGuide.jsx'
 import Post from "./pages/Post";
 import ForFarmers from './pages/ForFarmers.jsx'
 import AllPosts from "./pages/AllPosts";
-
+import AllServices from './pages/AllServices.jsx'
 const router= createBrowserRouter([
   {
     path: "/",
@@ -31,6 +31,14 @@ const router= createBrowserRouter([
             element: (
                 <AuthLayout authentication={false}>
                     <Login />
+                </AuthLayout>
+            ),
+        },
+        {
+            path: "/all-services",
+            element: (
+                <AuthLayout authentication={false}>
+                    <AllServices />
                 </AuthLayout>
             ),
         },
